@@ -3,6 +3,9 @@
 ## Overview
 This is a simple number guessing game implemented in JavaScript. The objective of the game is to guess a randomly generated number between 1 and 100 within a maximum of 10 attempts. The game provides feedback on whether the guess is correct, and indicates how many attempts have been made.
 
+## Screenshort
+![screenshort](./readme-image.png)
+
 ## Instructions
 
 - The computer generates a random number between 1 - 100
